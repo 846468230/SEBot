@@ -31,5 +31,11 @@ lack of unprocessed raw dataset.
   Account representations visualization on TwiBot-20. Red represents bots, while blue represents humans.
 # Citation
 ```
-Coming soon
+@inproceedings{yang2024sebot,
+  title={SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection},
+  author={Yang, Yingguang and Wu, Qi and He, Buyun and Peng, Hao and Yang, Renyu and Hao, Zhifeng and Liao, Yong},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3841--3852},
+  year={2024}
+}
 ```
