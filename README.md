@@ -28,7 +28,11 @@ lack of unprocessed raw dataset.
 
 ![Main Results](visual.png)
 
-  Account representations visualization on TwiBot-20. Red represents bots, while blue represents humans.
+# Supplementary materials
+The relevant datasets and encoding tree files can be downloaded from the following two links respectively:
+Datasets: https://rec.ustc.edu.cn/share/06848760-8962-11ef-96b7-0d511309398d
+Encoding trees: https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EhYz2KKKKLVMvDSXPTa2FnEBq9wpQK_56rV-UrxoY-q4HA?e=ZtSKAd
+
 # Citation
 ```
 @inproceedings{yang2024sebot,
