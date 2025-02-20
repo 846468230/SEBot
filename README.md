@@ -31,7 +31,7 @@ lack of unprocessed raw dataset.
 # Supplementary materials
 The relevant datasets and encoding tree files can be downloaded from the following two links respectively:
 
-Datasets: https://rec.ustc.edu.cn/share/06848760-8962-11ef-96b7-0d511309398d
+Datasets: https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EqHiNFTb0whJrJZciDkKS6kB9WAhI0wN3zyz_k1oOpKEuQ?e=9TspOh.
 
 Encoding trees: https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EhYz2KKKKLVMvDSXPTa2FnEBq9wpQK_56rV-UrxoY-q4HA?e=ZtSKAd
 
