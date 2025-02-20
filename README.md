@@ -31,9 +31,11 @@ lack of unprocessed raw dataset.
 # Supplementary materials
 The relevant datasets and encoding tree files can be downloaded from the following two links respectively:
 
-Datasets: https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EqHiNFTb0whJrJZciDkKS6kB9WAhI0wN3zyz_k1oOpKEuQ?e=9TspOh.
+Datasets: [dataset](https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EqHiNFTb0whJrJZciDkKS6kB9WAhI0wN3zyz_k1oOpKEuQ?e=vTcpHO)
 
-Encoding trees: https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EhYz2KKKKLVMvDSXPTa2FnEBq9wpQK_56rV-UrxoY-q4HA?e=ZtSKAd
+Encoding trees: [trees](https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EtlPv0ZRlV5Cq6EtZvji38cBvg_6G_4uvg-99Muomg-xZg?e=irOo5l)
+
+Subgraphs: [subgraphs](https://stuscueducn-my.sharepoint.com/:f:/g/personal/un0o7_stu_scu_edu_cn/EvwiMgkDyNFFhh_gjMDDNzYB1puqDBYPDGI3UY6zL4LaeA?e=ctY7z3)
 
 # Citation
 ```
